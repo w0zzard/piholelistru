@@ -763,7 +763,7 @@ ads.newsland.ru
 ads.photosight.ru
 ads.yadro.ru
 adsclick.ru
-adsdk.yandex.ru
+adsdk..ru
 adseller.hop.ru
 adsense-google.ru
 adskape.ru
@@ -811,7 +811,7 @@ advert.subscribe.ru
 advertbox.ru
 advertising-directory.ru
 advertising.ru
-advertising.yandex.ru
+advertising..ru
 advertpay.ru
 advertur.ru
 advertyourproperty.ru
@@ -1145,7 +1145,7 @@ amulet-kmv.ru
 amulet11.ru
 amvic.ru
 an.media-active.ru
-an.yandex.ru
+an..ru
 analytics.carambatv.ru
 ananumous.ru
 anapa-inns.ru
@@ -1560,19 +1560,19 @@ avtotest-taxi.ru
 avtovolop.ru
 avtozapchastivazlanos.ru
 awa-beauty.ru
-awaps.yandex.ru
+awaps..ru
 awaybird.ru
 awaytoholiday.com.ru
 awesomewatches.ru
 awm-magazine.ru
 awoemoebelshopwde.ru
 awsfd.myjino.ru
-awsync.yandex.ru
+awsync..ru
 awto-tros.ru
 axegame.ru
 axyqtllqnj.ru
 aymcsx.ru
-az.yandex.ru
+az..ru
 azarevi.dom-monster-house.ru
 azarevi.vard-forum.ru
 azatfazlyev.ru
@@ -2299,7 +2299,7 @@ brutal-escort.ru
 brute.ru
 brvyjcu0ablfhwx.ru
 bryusreymond.ru
-bs-meta.yandex.ru
+bs-meta..ru
 bs.israelinfo.ru
 bs.mybb.ru
 bs.orsk.ru
@@ -14254,7 +14254,6 @@ yamail-ec7ba6ca6a93.wineroom-mc.ru
 yamanager.ru
 yambotan.ru
 yaminecraft.ru
-yandex.ru
 yandex.ru.sgtfnregsnet.ru
 yandexalfa.ru
 yandexma16.temp.swtest.ru
@@ -14429,9 +14428,7 @@ zeldatherine.ru
 zeleny-sad37.ru
 zeleznobeton.ru
 zem-m7.ru
-zen-test.yandex.ru
 zen.2miners.ru
-zen.yandex.ru
 zenbillis.ru
 zenblueeds.ru
 zenit-izhevsk.ru
